@@ -1,0 +1,19 @@
+
+
+# GET http://localhost:3000
+
+
+# GET http://localhost:3000/data
+
+
+# POST  http://localhost:3000/data
+# Content-Type: application/json
+
+# {
+#     "title":"Learning Express",
+#     "completed":false
+# }
+
+
+GET http://localhost:3000/data
+
